@@ -1,0 +1,15 @@
+{"time":"2025-05-27T19:26:04.502166589+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/hch3324/Desktop/shallowCNN/Pytorch-UNet/wandb/offline-run-20250527_192604-i81ov14u/logs/debug-core.log"}
+{"time":"2025-05-27T19:26:04.60478145+09:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-27T19:26:04.604839821+09:00","level":"INFO","msg":"created new stream","id":"i81ov14u"}
+{"time":"2025-05-27T19:26:04.604865558+09:00","level":"INFO","msg":"stream: started","id":"i81ov14u"}
+{"time":"2025-05-27T19:26:04.60490535+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"i81ov14u"}
+{"time":"2025-05-27T19:26:04.60492751+09:00","level":"INFO","msg":"sender: started","stream_id":"i81ov14u"}
+{"time":"2025-05-27T19:26:04.604950438+09:00","level":"INFO","msg":"handler: started","stream_id":"i81ov14u"}
+{"time":"2025-05-27T19:26:04.607203621+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-27T19:32:50.855752964+09:00","level":"INFO","msg":"stream: closing","id":"i81ov14u"}
+{"time":"2025-05-27T19:32:50.855791203+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-27T19:32:50.85591181+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-27T19:32:50.85593707+09:00","level":"INFO","msg":"handler: closed","stream_id":"i81ov14u"}
+{"time":"2025-05-27T19:32:50.855939502+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"i81ov14u"}
+{"time":"2025-05-27T19:32:50.85594535+09:00","level":"INFO","msg":"sender: closed","stream_id":"i81ov14u"}
+{"time":"2025-05-27T19:32:50.856023141+09:00","level":"INFO","msg":"stream: closed","id":"i81ov14u"}
