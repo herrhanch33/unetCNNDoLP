@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+build/
+dist/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Other common ignores
+*.DS_Store
